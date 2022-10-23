@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="Layer_1"
    x="0px"
@@ -11,12 +16,11 @@
    viewBox="0 0 1000 1000"
    style="enable-background:new 0 0 1000 1000;"
    xml:space="preserve"
-   sodipodi:docname="dress_male_1.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   sodipodi:docname="dress_1.2773fbff.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"><metadata
+   id="metadata234"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
    id="defs993" /><sodipodi:namedview
    id="namedview991"
    pagecolor="#ffffff"
@@ -28,14 +32,15 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="0.81399997"
-   inkscape:cx="466.21623"
-   inkscape:cy="198.40296"
-   inkscape:window-width="1379"
-   inkscape:window-height="1008"
-   inkscape:window-x="0"
+   inkscape:cx="329.23834"
+   inkscape:cy="444.10321"
+   inkscape:window-width="1301"
+   inkscape:window-height="1040"
+   inkscape:window-x="156"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="illustration" />
+   inkscape:current-layer="illustration"
+   inkscape:document-rotation="0" />
 <g
    id="illustration"
    style="fill:#000000">
@@ -71,7 +76,7 @@
 	
 	
 <path
-   style="opacity:1;fill:#000000"
+   style="opacity:1;fill:#0000ff"
    d="m 450.96534,250.4833 45.96341,83.66904 0.61425,189.97805 -61.43256,47.11208 -49.99065,-55.0356 c 0,0 2.24813,-28.90772 2.65368,-61.9496 0.18274,-14.8888 1.76192,-50.58362 -0.76875,-67.11211 -2.40654,-15.71777 -8.58744,-35.22647 -12.46874,-46.31589 0,0 -77.30998,0.33357 -123.79088,0.83879 -50.57317,0.54969 -95.26334,0.60049 -95.26334,0.60049 l -4.28728,-49.34562 -3.02199,-35.11228 c 0,0 44.4108,1.36376 93.53745,0.31537 47.31209,-1.00967 86.84725,-3.84991 134.0982,-6.45788 22.15594,-1.22288 74.1572,-1.18484 74.1572,-1.18484 z"
    id="path1150"
    sodipodi:nodetypes="cccccsscscscssc" /><path
@@ -84,7 +89,7 @@
    id="path1316"
    sodipodi:nodetypes="csccscc"
    inkscape:label="path1316" /><path
-   style="fill:#000000"
+   style="fill:#0000ff"
    d="m 552.13574,250.94121 -45.96341,83.66903 -0.61425,189.97806 61.43256,47.11208 49.99065,-55.03561 c 0,0 -0.21088,-28.99565 -2.65368,-61.94959 -1.71837,-23.18118 -1.9896,-48.80187 0.76875,-67.11211 5.65897,-37.56488 12.46874,-46.31589 12.46874,-46.31589 0,0 77.30998,0.33357 123.79088,0.83879 50.57317,0.54969 95.26334,0.60048 95.26334,0.60048 l 4.28728,-49.34561 3.02199,-35.11228 c 0,0 -44.4108,1.36376 -93.53745,0.31536 -47.31209,-1.00967 -86.84725,-3.84991 -134.0982,-6.45788 -22.15594,-1.22288 -74.1572,-1.18484 -74.1572,-1.18483 z"
    id="path1150-2"
    sodipodi:nodetypes="cccccsscscscssc" /><path
